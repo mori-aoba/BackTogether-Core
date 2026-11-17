@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/badge/CrossPlatform-Steam_%26_STOVE-orange?style=for-the-badge)](#)
 
 > **2~4인 온라인 협동 퍼즐 플랫포머 게임 'BackTogether'의 코어 아키텍처 및 네트워크 시스템 포트폴리오 저장소입니다.**  
-> 본 저장소는 팀장(Hukaziroh / Bae)이 직접 설계하고 구현한 **멀티플레이 네트워크 엔진, 플랫폼 SDK 통합(Steam/STOVE/EOS), 복합 협동 기믹 및 트러블슈팅 코드**를 엄선하여 구성되었습니다.
+> 본 저장소는 팀장(mori-aoba / Bae)이 직접 설계하고 구현한 **멀티플레이 네트워크 엔진, 플랫폼 SDK 통합(Steam/STOVE/EOS), 복합 협동 기믹 및 트러블슈팅 코드**를 엄선하여 구성되었습니다.
 
 ---
 
